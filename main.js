@@ -54,4 +54,4 @@ Client.on('message', message => {
     }
 });
 
-Client.login('ODk0Mzg2NTI3NTU4MzExOTg3.YVpQXQ.2VtZFcmxBn0t-mNTTvYv1xM0c_w'); // Type in your token here
+Client.login('TOKEN'); // Type in your token here
